@@ -26,19 +26,19 @@ Projeto em Python com interface gráfica baseada em CustomTkinter, que permite a
 📂 Organização dos Arquivos
 
 cybersecurity-app/
-── data/ (contém o CSV com os ataques)
-── images/ (imagens da interface)
-── src/ (código-fonte)
-   ── main.py
-   ── home.py
-   ── login.py
-   ── cadastrousuario.py
-   ── bancousuario.py
-   ── cadastro.py
-   ── atualizardeletar.py
-   ── quiz.py
-── icon.ico
-└── README.md
+-- data/ (contém o CSV com os ataques)
+-- images/ (imagens da interface)
+-- src/ (código-fonte)
+   -- main.py
+   -- home.py
+   -- login.py
+   -- cadastrousuario.py
+   -- bancousuario.py
+   -- cadastro.py
+   -- atualizardeletar.py
+   -- quiz.py
+-- icon.ico
+-- README.md
 
 🧑‍💻 Como Executar
 
@@ -65,9 +65,9 @@ Utiliza o arquivo CSV com colunas como:
 
 ❓ Dúvidas Frequentes
 
-• Posso cadastrar ataques manualmente? Sim, pelo botão 'Cadastrar Novo Ataque'
-• Consigo editar ou apagar registros? Sim, usando 'Atualizar/Deletar Dados'
-• E se eu esquecer minha senha? Use 'Esqueci minha senha' na tela de login
+* Posso cadastrar ataques manualmente? Sim, pelo botão 'Cadastrar Novo Ataque'
+* Consigo editar ou apagar registros? Sim, usando 'Atualizar/Deletar Dados'
+* E se eu esquecer minha senha? Use 'Esqueci minha senha' na tela de login
 
 🧠 Sobre o Projeto
 
