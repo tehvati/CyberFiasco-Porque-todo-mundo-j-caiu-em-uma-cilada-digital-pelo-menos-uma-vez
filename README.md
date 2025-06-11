@@ -23,23 +23,6 @@ Projeto em Python com interface gráfica baseada em CustomTkinter, que permite a
 • plotly
 • Pillow
 
-📂 Organização dos Arquivos
-
-cybersecurity-app/
--- data/ (contém o CSV com os ataques)
--- images/ (imagens da interface)
--- src/ (código-fonte)
-   -- main.py
-   -- home.py
-   -- login.py
-   -- cadastrousuario.py
-   -- bancousuario.py
-   -- cadastro.py
-   -- atualizardeletar.py
-   -- quiz.py
--- icon.ico
--- README.md
-
 🧑‍💻 Como Executar
 
 1. Clone ou baixe o repositório
