@@ -6,14 +6,14 @@ Projeto em Python com interface gráfica baseada em CustomTkinter, que permite a
 
 🚀 Funcionalidades
 
-• Interface de Login com recuperação de senha
-• Cadastro de novos usuários com confirmação de senha
-• Tela principal com curiosidades sobre segurança cibernética
-• Visualização de dados com filtros por país, ano e tipo de ataque
-• Geração de gráficos interativos (barras, pizza, linha)
-• Cadastro de novos ataques diretamente na base
-• Edição e exclusão de registros por meio da interface
-• Quiz interativo sobre cibersegurança
+* Interface de Login com recuperação de senha
+* Cadastro de novos usuários com confirmação de senha
+* Tela principal com curiosidades sobre segurança cibernética
+* Visualização de dados com filtros por país, ano e tipo de ataque
+* Geração de gráficos interativos (barras, pizza, linha)
+* Cadastro de novos ataques diretamente na base
+* Edição e exclusão de registros por meio da interface
+* Quiz interativo sobre cibersegurança
 
 🧰 Requisitos
 
@@ -26,18 +26,18 @@ Projeto em Python com interface gráfica baseada em CustomTkinter, que permite a
 📂 Organização dos Arquivos
 
 cybersecurity-app/
-├── data/ (contém o CSV com os ataques)
-├── images/ (imagens da interface)
-├── src/ (código-fonte)
-│   ├── main.py
-│   ├── home.py
-│   ├── login.py
-│   ├── cadastrousuario.py
-│   ├── bancousuario.py
-│   ├── cadastro.py
-│   ├── atualizardeletar.py
-│   └── quiz.py
-├── icon.ico
+── data/ (contém o CSV com os ataques)
+── images/ (imagens da interface)
+── src/ (código-fonte)
+   ── main.py
+   ── home.py
+   ── login.py
+   ── cadastrousuario.py
+   ── bancousuario.py
+   ── cadastro.py
+   ── atualizardeletar.py
+   ── quiz.py
+── icon.ico
 └── README.md
 
 🧑‍💻 Como Executar
