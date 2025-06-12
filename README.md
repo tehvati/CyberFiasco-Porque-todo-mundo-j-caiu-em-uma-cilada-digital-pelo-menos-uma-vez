@@ -1,4 +1,4 @@
-# Cybersecurity Data Analyzer - Manual de Uso #
+# CyberFiasco - Manual de Uso #
 
 ## 🔐 Descrição Geral ##
 
