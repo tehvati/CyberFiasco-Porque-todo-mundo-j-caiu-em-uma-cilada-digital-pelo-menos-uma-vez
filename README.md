@@ -46,7 +46,7 @@ Utiliza o arquivo CSV com colunas como:
 - Incident Resolution Time
 - Number of Affected Users
 
-##❓ Dúvidas Frequentes ##
+## ❓ Dúvidas Frequentes ##
 
 * Posso cadastrar ataques manualmente? Sim, pelo botão 'Cadastrar Novo Ataque'
 * Consigo editar ou apagar registros? Sim, usando 'Atualizar/Deletar Dados'
