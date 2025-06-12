@@ -55,3 +55,9 @@ Utiliza o arquivo CSV com colunas como:
 ## 🧠 Sobre o Projeto ##
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico, com foco em segurança da informação, ciência de dados e interfaces amigáveis ao usuário.
+
+## 👥 Integrantes ##
+
+- **Gabriel Marques Da Silva Barros** – 202402399764  
+- **Letícia Valença Timótio** – 202402534351  
+- **Thiago Matias Rodrigues** – 202403475171  
