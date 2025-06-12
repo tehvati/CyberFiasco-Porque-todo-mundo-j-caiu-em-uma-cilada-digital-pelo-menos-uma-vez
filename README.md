@@ -4,7 +4,7 @@
 
 Projeto em Python com interface gráfica baseada em CustomTkinter, que permite a visualização, cadastro, atualização e análise interativa de dados sobre ataques cibernéticos ao redor do mundo. Ideal para fins educacionais, acadêmicos ou de conscientização sobre segurança da informação.
 
-##🚀 Funcionalidades ##
+## 🚀 Funcionalidades ##
 
 * Interface de Login com recuperação de senha
 * Cadastro de novos usuários com confirmação de senha
