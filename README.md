@@ -17,11 +17,11 @@ Projeto em Python com interface gráfica baseada em CustomTkinter, que permite a
 
 🧰 Requisitos
 
-• Python 3.10 ou superior
-• customtkinter
-• pandas
-• plotly
-• Pillow
+* Python 3.10 ou superior
+* customtkinter
+* pandas
+* plotly
+* Pillow
 
 🧑‍💻 Como Executar
 
@@ -52,6 +52,6 @@ Utiliza o arquivo CSV com colunas como:
 * Consigo editar ou apagar registros? Sim, usando 'Atualizar/Deletar Dados'
 * E se eu esquecer minha senha? Use 'Esqueci minha senha' na tela de login
 
-🧠 Sobre o Projeto
+## 🧠 Sobre o Projeto ##
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico, com foco em segurança da informação, ciência de dados e interfaces amigáveis ao usuário.
