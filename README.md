@@ -1,10 +1,10 @@
 # Cybersecurity Data Analyzer - Manual de Uso #
 
-🔐 Descrição Geral
+## 🔐 Descrição Geral ##
 
 Projeto em Python com interface gráfica baseada em CustomTkinter, que permite a visualização, cadastro, atualização e análise interativa de dados sobre ataques cibernéticos ao redor do mundo. Ideal para fins educacionais, acadêmicos ou de conscientização sobre segurança da informação.
 
-🚀 Funcionalidades
+##🚀 Funcionalidades ##
 
 * Interface de Login com recuperação de senha
 * Cadastro de novos usuários com confirmação de senha
@@ -15,7 +15,7 @@ Projeto em Python com interface gráfica baseada em CustomTkinter, que permite a
 * Edição e exclusão de registros por meio da interface
 * Quiz interativo sobre cibersegurança
 
-🧰 Requisitos
+## 🧰 Requisitos ##
 
 * Python 3.10 ou superior
 * customtkinter
@@ -23,18 +23,18 @@ Projeto em Python com interface gráfica baseada em CustomTkinter, que permite a
 * plotly
 * Pillow
 
-🧑‍💻 Como Executar
+## 🧑‍💻 Como Executar ##
 
 1. Clone ou baixe o repositório
 2. Certifique-se de que o arquivo CSV está em /data
 3. Acesse a pasta src
 4. Execute: python main.py
 
-🗃️ Banco de Dados
+## 🗃️ Banco de Dados ##
 
 O sistema cria automaticamente o banco 'usuarios.db' (SQLite) ao abrir a tela de login, se ele não existir.
 
-📊 Dados
+## 📊 Dados ##
 
 Utiliza o arquivo CSV com colunas como:
 - Year
@@ -46,7 +46,7 @@ Utiliza o arquivo CSV com colunas como:
 - Incident Resolution Time
 - Number of Affected Users
 
-❓ Dúvidas Frequentes
+##❓ Dúvidas Frequentes ##
 
 * Posso cadastrar ataques manualmente? Sim, pelo botão 'Cadastrar Novo Ataque'
 * Consigo editar ou apagar registros? Sim, usando 'Atualizar/Deletar Dados'
